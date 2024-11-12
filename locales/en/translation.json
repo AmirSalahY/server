@@ -1,0 +1,16 @@
+{
+  "welcome": "Welcome to our app",
+  "login": "Login",
+  "signup": "Sign Upx",
+  "email": "Email",
+  "password": "Password",
+  "register": {
+    "title": "Willkommen bei Ur-Store",
+    "apple": "Sign in with Apple",
+    "google": "Sign in with Google",
+    "facebook": "Sign in with Facebook",
+    "email": "Sign in with Email",
+    "phone": "Sign in with Phone",
+    "disclaimer": "<0>By using the app, you agree to the <1>Terms></1> and <2>Conditions</2>. Find our Privacy Policy and Impressum here.</0>"
+  }
+}

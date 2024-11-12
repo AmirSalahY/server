@@ -1,0 +1,22 @@
+{
+  "register": {
+    "title": "Welcome to {{companyName}}",
+    "apple": "Sign in with Apple",
+    "google": "Sign in with Google",
+    "facebook": "Sign in with Facebook",
+    "email": "Sign in with Email",
+    "phone": "Sign in with Phone",
+    "disclaimer": "<0>By using the app, you agree to the <1>terms and conditions</1>. You can find the <2>privacy policy</2> and <3>imprint</3> here.</0>"
+  },
+  "signin": {
+    "subtext": "Sign in with Email",
+    "email": "Email Address",
+    "password": "Password",
+    "submit": "Sign in"
+  },
+  "bottomBar": {
+    "english": "English",
+    "deutsch": "Deutsch"
+  },
+  "back": "Back"
+}

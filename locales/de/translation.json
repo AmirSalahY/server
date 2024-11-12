@@ -1,0 +1,20 @@
+{
+    "welcome": "Willkommen in unserer App",
+    "login": "Anmelden",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "switchLanguage": "Zu Englisch wechseln",
+    "error": {
+        "generic": "Etwas ist schief gelaufen",
+        "loading": "Fehler beim Laden der Daten"
+    },
+    "register": {
+        "title": "Willkommen bei Ur-Store",
+        "apple": "Mit Apple anmelden",
+        "google": "Mit Google anmelden",
+        "facebook": "Mit Facebook anmelden",
+        "email": "Mit E-Mail anmelden",
+        "phone": "Mit Telefonnummer ",
+        "disclaimer": "<0>Mit Nutzung der App stimmst du den <1>AGB</1> zu. Datenschutzerklärung und Impressum findest du hier.</0>"
+    }
+}
