@@ -32,6 +32,7 @@ app.get("/company/:companyId/config", (req, res) => {
     highlightedText: "#F5F5F5", // Color for highlighted or active text
     normalColor: "#C7C7C7", // Default text color
     borderColor: "#ECECEC", // Border color for buttons and cards
+    textColor: "#3C3C3B", // Text color for buttons and cards
     logo: `http://localhost:${PORT}/logo.png`, // Client's logo
     buttonStyles: {
       shape: "rounded", // Button shape
